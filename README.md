@@ -1,2 +1,3 @@
 # LTHDT-BasicStringClass
-Xây dựng lớp basic string
+### Ảnh minh hoạ
+
